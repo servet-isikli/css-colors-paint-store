@@ -1,0 +1,2 @@
+- Paint Store - codecademy.com
+- HTML - CSS training
