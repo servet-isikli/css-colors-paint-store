@@ -1,2 +1,3 @@
 - Paint Store - codecademy.com
 - HTML - CSS training
+- https://servetisikli.github.io/css-colors-paint-store
